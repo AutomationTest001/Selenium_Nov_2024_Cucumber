@@ -1,0 +1,4 @@
+com\itview\stepdefinitions\LoginTest.class
+com\itview\stepdefinitions\CalculatorDataDrivenTest.class
+com\itview\stepdefinitions\CalculatorTest.class
+com\itview\stepdefinitions\TestRunner.class
